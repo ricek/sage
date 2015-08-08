@@ -55,6 +55,7 @@ footer { margin: 50px 0; }
 .blueBoarder {
   color: #337ab7;
   border-color: #337ab7;
+  border-width: 10px;
 }
 
 .categories-header {
