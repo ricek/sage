@@ -14,3 +14,22 @@ body {
 }
 
 footer { margin: 50px 0; }
+
+.milkimages {
+  height: 300px;
+  width: 500px;
+}
+
+.gallon {
+  font-size: 11px;
+  text-align: center;
+}
+
+.milktext {
+  text-align: center;
+}
+
+.blueBoarder {
+  color: #337ab7;
+  border-color: #337ab7;
+}
