@@ -4,8 +4,11 @@ body {
 
 .portfolio-item { margin-bottom: 25px; }
 
-.sage-header {
+.page-header{
+  margin-top: 20px;
+}
 
+.sage-header {
     height: 250px;
     background: linear-gradient(
       rgba(0, 0, 0, 0.7),
@@ -24,6 +27,20 @@ footer { margin: 50px 0; }
   width: 500px;
 }
 
+#milkcompareimages1 {
+  height: auto;
+  position: relative;
+  width: 50%;
+  left: 25%;
+}
+
+#milkcompareimages2 {
+  height: auto;
+  position: relative;
+  width: 50%;
+  left: 25%;
+}
+
 .gallon {
   font-size: 11px;
   text-align: center;
@@ -37,7 +54,6 @@ footer { margin: 50px 0; }
   color: #337ab7;
   border-color: #337ab7;
 }
-
 
 .categories-header {
 	text-align: center;
